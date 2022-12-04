@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\bin\Debug\GraphIsomorphism.exe.config
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\bin\Debug\GraphIsomorphism.exe
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\bin\Debug\GraphIsomorphism.pdb
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.exe
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.pdb
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.mainForm.resources
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.ExtendedInfoForm.resources
+C:\Users\User\Desktop\учеба\Курсовая работа 1\GraphIsomorphism\obj\Debug\GraphIsomorphism.ResearchForm.resources
